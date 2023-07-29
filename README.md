@@ -7,7 +7,7 @@
 
 ---- Agrega el siguiente enlace a la lista de repositorios de CloudStream 
 
------ https://raw.githubusercontent.com/AntroidDev/FR33-PR0V1D3R5/main/repo.json
+----- https://raw.githubusercontent.com/AntroidDev/FR33-PR0V1D3R5/main/repo.json -----
 
 ---- Y listo, si veo que algun servidor falla demasiado lo dare de baja
 
